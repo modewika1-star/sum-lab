@@ -1,4 +1,6 @@
-# 🧮 Console Calculator: Addition
+# SumLab | JavaScript Addition Exercise
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://addition-console-exercise-2-mjs.vercel.app/)
 
 A small JavaScript practice project that asks for two numbers, calculates their sum, and displays the values in the page and browser console.
 
